@@ -1,0 +1,1 @@
+readlinesync.question('Forma de pagamento: ')
